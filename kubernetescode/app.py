@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Welcome DevOps Session with Jenkins !!!'
+    return 'Welcome to DevOps Session!!!'
